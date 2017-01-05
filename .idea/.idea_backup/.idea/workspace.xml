@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7b1c0f9-5303-4042-90a5-05cecbda0e94" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vim.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vim.iws" />
@@ -715,7 +714,7 @@
       <workItem from="1483455636064" duration="8531000" />
       <workItem from="1483496800398" duration="3573000" />
       <workItem from="1483506007973" duration="1326000" />
-      <workItem from="1483599982381" duration="912000" />
+      <workItem from="1483599982381" duration="847000" />
     </task>
     <task id="LOCAL-00001" summary="增加课程介绍，首页轮播的外观搭建">
       <created>1478067100340</created>
@@ -735,7 +734,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91363000" />
+    <option name="totallyTimeSpent" value="91298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
